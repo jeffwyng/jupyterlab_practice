@@ -1,0 +1,8 @@
+name: jupyter_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.9
+prefix: C:\Users\jeffr\miniconda3\envs\jupyter_env
